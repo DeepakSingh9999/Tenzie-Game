@@ -6,7 +6,7 @@ A fun and simple dice game built with **React**. The goal is to roll until all d
 
 ## 🚀 Live Demo
 
-👉 *(Add your deployed link here — e.g., Vercel, Netlify, GitHub Pages)*
+👉 https://tenzie-game-theta.vercel.app/
 
 ---
 
