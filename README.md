@@ -109,9 +109,11 @@ tenzies-game/
 
 ## 📸 Screenshot
 
-*(Add a screenshot here if available)*
+<img width="1074" height="722" alt="Screenshot 2026-02-23 144345" src="https://github.com/user-attachments/assets/5ab86a04-efb8-4049-824b-f92fbded0dd8" />
 
----
+
+---<img width="1085" height="715" alt="Screenshot 2026-02-23 144319" src="https://github.com/user-attachments/assets/d56c97d4-4d89-448d-ae9d-48196e0642f6" />
+
 
 ## 📚 What I Learned
 
