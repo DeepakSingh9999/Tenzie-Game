@@ -1,4 +1,4 @@
-# 🎲 Tenzies Game (React)
+# 🎲 Tenzie Game (React)
 
 A fun and simple dice game built with **React**. The goal is to roll until all dice show the same number. You can hold dice between rolls to lock their values and strategically reach victory!
 
@@ -60,7 +60,7 @@ npm start
 ## 🏗️ Project Structure
 
 ```
-tenzies-game/
+tenzie-game/
 │
 ├── src/
 │   ├── components/
