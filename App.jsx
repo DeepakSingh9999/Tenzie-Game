@@ -30,7 +30,7 @@ export default function App() {
             .fill(0)
             .map(() => ({
                 // value: Math.ceil(Math.random() * 6),
-                value: diceIcons[Math.ceil(Math.random() * 6)],
+                value: Math.ceil(Math.random() * 6),
                 isHeld: false,
                 id: nanoid()
             }))
@@ -59,7 +59,7 @@ export default function App() {
     const diceElements = dice.map(dieObj => (
         <Die
             key={dieObj.id}
-            value={dieObj.value}
+            value={diceIcons[dieObj.value]}
             isHeld={dieObj.isHeld}
             hold={() => hold(dieObj.id)}
         />
